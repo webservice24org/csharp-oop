@@ -1,0 +1,14 @@
+D:\csharp\Inheritence\Inheritence\bin\Debug\Inheritence.exe.config
+D:\csharp\Inheritence\Inheritence\bin\Debug\Inheritence.exe
+D:\csharp\Inheritence\Inheritence\bin\Debug\Inheritence.pdb
+D:\csharp\Inheritence\Inheritence\obj\Debug\Inheritence.csproj.AssemblyReference.cache
+D:\csharp\Inheritence\Inheritence\obj\Debug\Inheritence.csproj.CoreCompileInputs.cache
+D:\csharp\Inheritence\Inheritence\obj\Debug\Inheritence.exe
+D:\csharp\Inheritence\Inheritence\obj\Debug\Inheritence.pdb
+D:\Mohiuddin-1280860\Inheritence\Inheritence\Inheritence\bin\Debug\Inheritence.exe.config
+D:\Mohiuddin-1280860\Inheritence\Inheritence\Inheritence\bin\Debug\Inheritence.exe
+D:\Mohiuddin-1280860\Inheritence\Inheritence\Inheritence\bin\Debug\Inheritence.pdb
+D:\Mohiuddin-1280860\Inheritence\Inheritence\Inheritence\obj\Debug\Inheritence.csproj.AssemblyReference.cache
+D:\Mohiuddin-1280860\Inheritence\Inheritence\Inheritence\obj\Debug\Inheritence.csproj.CoreCompileInputs.cache
+D:\Mohiuddin-1280860\Inheritence\Inheritence\Inheritence\obj\Debug\Inheritence.exe
+D:\Mohiuddin-1280860\Inheritence\Inheritence\Inheritence\obj\Debug\Inheritence.pdb
